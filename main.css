@@ -1,4 +1,5 @@
 body {
     background-color: blue ;
-    color: yellow; 
+    color: yellow;
+    justify-content: center; 
 }
