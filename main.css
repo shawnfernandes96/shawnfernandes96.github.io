@@ -16,6 +16,7 @@ li {
 }
 
 li a {
+    font-size: 25px;
     display: block;
     color: #C5B358;
     text-align: center;
